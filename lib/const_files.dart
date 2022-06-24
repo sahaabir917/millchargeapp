@@ -1,0 +1,10 @@
+const String APPBAR_COLOR="#181a70";
+const String LIGHT_ORANGE1="#C0CA33";
+const String ASH_COLOR_400="#8D6E63";
+const String ASH_COLOR_100="#D7CCC8";
+const String ASH_COLOR_700="#455A64";
+const String LIGHT_RED_700="#C2185B";
+const String BLUE_COLOR_800="#00BCD4";
+const String MY_DEBIT_COLOR="#B3E5FC";
+const String MY_CREDIT_COLOR="#B3E5FC";
+const String THIS_MONTH_DEBIT_COST = "#558B2F";
